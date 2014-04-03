@@ -1,4 +1,4 @@
-js-do-it
+Javascript LinkedHashMap 
 ========
 
-Some Javascript data structures. Added as needed.
+A pragmatic utility to maintain an ordered object in Javascript.
