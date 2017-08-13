@@ -357,7 +357,7 @@
 			if (typeof(beautify) == "boolean" && beautify == true) {
 				// use a tab if it's true
 				space = "\t";
-			} else if (!isNaN(beautify) || typeof(beautify) == "string" || beautify instanceOf String) {
+			} else if (!isNaN(beautify) || typeof(beautify) == "string" || beautify instanceof String) {
 				// allow customization if a number or string is passed in
 				space = beautify;
 			}
